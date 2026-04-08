@@ -1,4 +1,6 @@
 streamlit
-pycaret
 pandas
-scikit-learn
+numpy
+scipy
+pycaret==3.3.2
+python-dotenv
